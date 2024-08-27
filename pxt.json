@@ -1,5 +1,6 @@
 {
     "name": "Blow Away Ghost micro:bit",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
